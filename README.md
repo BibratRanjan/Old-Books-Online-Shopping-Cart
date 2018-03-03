@@ -5,14 +5,14 @@
 3. DataLayer(SqlServer)
 
 ## Functionalities:
-### Administrator
-1. Adding Products 
-2. Adding New Category of Products
-3. Handle Customer Orders
-4. View Product Details like stock
-### User
-1. See products by category
-2. Add products to the cart
-3. Remove from cart
-4. Fill in Customer Details
-5. Track the product delivery
+#### Administrator
+i. Adding Products 
+ii. Adding New Category of Products
+iii. Handle Customer Orders
+iv. View Product Details like stock
+#### User
+i. See products by category
+ii. Add products to the cart
+iii. Remove from cart
+iv. Fill in Customer Details
+v. Track the product delivery
